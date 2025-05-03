@@ -1,11 +1,14 @@
 # Music4U App
 
+
+<img src="https://github.com/user-attachments/assets/1b1c2d8a-b0d6-4d06-abda-25a75ae304d5" width="192" height="192"/>
+
+
 ## Done by:
 1. Karimkhanov Tursynkhan (Team Lead)
 2. Akhanayeva Aruzhan (Main Designer)
 3. Amangeldi Zhanserik (Tech Support)
 
-<img src="https://github.com/user-attachments/assets/1b1c2d8a-b0d6-4d06-abda-25a75ae304d5" width="192" height="192"/>
 
 <!--
 Uygulama Kotlin dili kullanılarak yazılmıştır. Uygulamanın yapımda Jetpack Compose kullanılmıştır. Uygulamada açılan ilk ekranda müzik türleri listelenmiştir. Aynı sayfada <b>Beğenilenler</b> sayfasına giden bir kalp iconu bulunmaktadır. Müzik türlerinden biri seçildiği zaman ilgili müzik türü ile alakalı sanatçıların listelendiği <b>Sanatçılar</b> sayfasına gidilir. Listelenen sanatçılardan biri seçildiği zaman ilgili sanatçının detaylarının gösterildiği ve albümlerinin listelendiği <b>Sanatçı Detay</b> sayfasına gidilir. Listelenen albümlerden biri seçildiği zaman ilgili albüme ait şarkıların listelendiği <b> Albüm Detay </b> sayfasına gidilir. Bu sayfada istenilen şarkı favorilere eklenebilir, favorilerde ekle bir şarkı var ise ilgili şarkı favorilerden kaldırabilir. Seçilen şarkıların 30 saniyelik önizlemesi çalar. Önizleme istenildiği zaman durdurulabilir. Favoriler sayfasında da eklenen şarkıların 30 saniyelik önizlemesi çalınabilir ve istenildiği zaman durdurulabilir. İstenilen şarkı favorilerden kaldırılabilir. Uygulama açık ve kapalı temalarla uyumlu bir şekilde çalışmaktadır.
