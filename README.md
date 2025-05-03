@@ -27,11 +27,6 @@ The app is built in Kotlin with a modern Jetpack Compose UI. On launch, you’re
 |                    | Dark | Light |
 |--------------------|------|-------|
 | Music Genres | <img src="https://github.com/AhmetOcak/AppcentDeezerApp/assets/73544434/cddde99e-8ea9-4867-b40d-71e709385862" width="240" height="480"/>     | <img src="https://github.com/AhmetOcak/AppcentDeezerApp/assets/73544434/b71db5ee-51e1-40c8-a5f9-ce0ba536192b" width="240" height="480"/>      |
-| Artists  | <img src="https://github.com/AhmetOcak/AppcentDeezerApp/assets/73544434/7431094e-7c76-478f-9683-c54e85791bcb" width="240" height="480"/>     |  <img src="https://github.com/AhmetOcak/AppcentDeezerApp/assets/73544434/42e08cd0-dcc5-4c4a-a9ca-f4fcfa558ec7" width="240" height="480"/>     |
-| Artist Detail      | <img src="https://github.com/AhmetOcak/DeezerApp/assets/73544434/ccaae8d5-f531-46b0-8a6a-bf7d33451d0c" width="240" height="480"/>     |  <img src="https://github.com/AhmetOcak/DeezerApp/assets/73544434/e1e6416b-c030-42ab-8d03-4fb14abc7590" width="240" height="480"/>     |
-| Album Detail        | <img src="https://github.com/AhmetOcak/DeezerApp/assets/73544434/f6508ea8-4206-4207-93af-ab648dc426c8" width="240" height="480"/>     |  <img src="https://github.com/AhmetOcak/DeezerApp/assets/73544434/d4df63dd-03ef-421d-a75d-a92acbbfaff4" width="240" height="480"/>     |
-| Favorites       | <img src="https://github.com/AhmetOcak/AppcentDeezerApp/assets/73544434/e009941b-fbd4-4153-96f5-23fd49d727f3" width="240" height="480"/>     |  <img src="https://github.com/AhmetOcak/AppcentDeezerApp/assets/73544434/f801affa-a08a-47d7-bccb-0802865fbdad" width="240" height="480"/>     |
-| Play Music       | <img src="https://github.com/AhmetOcak/DeezerApp/assets/73544434/89f05073-21ca-484f-86a3-cc9ce32faef0" width="240" height="480"/>     |  <img src="https://github.com/AhmetOcak/DeezerApp/assets/73544434/5e42a0ab-b128-469b-bf60-a3b4c47f0739" width="240" height="480"/>     |
 
 ## Modularization 📦
 
