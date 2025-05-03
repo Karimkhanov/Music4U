@@ -28,7 +28,7 @@ The app is built in Kotlin with a modern Jetpack Compose UI. On launch, you’re
 |--------------------|------|-------|
 |  |<img src="https://github.com/AhmetOcak/AppcentDeezerApp/assets/73544434/cddde99e-8ea9-4867-b40d-71e709385862" width="240" height="480"/>     | <img src="https://github.com/AhmetOcak/AppcentDeezerApp/assets/73544434/b71db5ee-51e1-40c8-a5f9-ce0ba536192b" width="240" height="480"/>      |
 
-## App's Architecture  📦
+## Modulirization  📦
 
 <img src="https://github.com/AhmetOcak/DeezerApp/assets/73544434/42d768b5-cb84-4909-b41a-4cc2fe084cdf"/>
  
@@ -46,4 +46,4 @@ The app is built in Kotlin with a modern Jetpack Compose UI. On launch, you’re
 ## Architecture 🏗
 The app uses MVVM [Model-View-ViewModel] architecture to have a unidirectional flow of data, separation of concern, testability, and a lot more.
 
-![mvvm](https://user-images.githubusercontent.com/73544434/197416569-d42a6bbe-126e-4776-9c8f-2791925f738c.png)
+![mvvm]((https://github.com/user-attachments/assets/874f7380-3e00-49ae-8cad-f268596b09c0))
