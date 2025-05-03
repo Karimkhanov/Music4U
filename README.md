@@ -28,7 +28,7 @@ The app is built in Kotlin with a modern Jetpack Compose UI. On launch, you’re
 |--------------------|------|-------|
 |  |<img src="https://github.com/AhmetOcak/AppcentDeezerApp/assets/73544434/cddde99e-8ea9-4867-b40d-71e709385862" width="240" height="480"/>     | <img src="https://github.com/AhmetOcak/AppcentDeezerApp/assets/73544434/b71db5ee-51e1-40c8-a5f9-ce0ba536192b" width="240" height="480"/>      |
 
-## Modularization 📦
+## App's Architecture  📦
 
 <img src="https://github.com/AhmetOcak/DeezerApp/assets/73544434/42d768b5-cb84-4909-b41a-4cc2fe084cdf"/>
  
