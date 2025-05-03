@@ -22,7 +22,7 @@ The app is built in Kotlin with a modern Jetpack Compose UI. On launch, you’re
   
 </div>
 
-## Outputs 🖼
+
 
 |                    | Dark | Light |
 |--------------------|------|-------|
