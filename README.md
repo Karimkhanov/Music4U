@@ -1,9 +1,9 @@
 # Music4U App
 
 ## Done by:
-1. Karimkhanov Tursynkhan
-2. Akhanayeva Aruzhan
-3. Amangeldi Zhanserik
+1. Karimkhanov Tursynkhan (Team Lead)
+2. Akhanayeva Aruzhan (Main Designer)
+3. Amangeldi Zhanserik (Tech Support)
 
 <img src="https://github.com/user-attachments/assets/1b1c2d8a-b0d6-4d06-abda-25a75ae304d5" width="192" height="192"/>
 
