@@ -10,36 +10,9 @@
 3. Amangeldi Zhanserik (Tech Support)
 
 
+The app is built in Kotlin with a modern Jetpack Compose UI. On launch, you’re greeted by a list of music genres, with a heart icon in the top corner takes you to your Favorites. Tapping a genre opens an artist's screen showing performers in that style; selecting an artist brings up their profile and a list of albums. From the Artist Details page, you can dive into any album’s page, where you can preview tracks for 30 seconds and add or remove them from your Favorites. Those same previews—and the ability to stop them at any time—are available on your Favorites page, where you can also unfavorite songs. Finally, the entire app seamlessly supports both light and dark themes for comfortable listening in any setting.
 
-<!--
-Uygulama Kotlin dili kullanılarak yazılmıştır. Uygulamanın yapımda Jetpack Compose kullanılmıştır. Uygulamada açılan ilk ekranda müzik türleri listelenmiştir. Aynı sayfada <b>Beğenilenler</b> sayfasına giden bir kalp iconu bulunmaktadır. Müzik türlerinden biri seçildiği zaman ilgili müzik türü ile alakalı sanatçıların listelendiği <b>Sanatçılar</b> sayfasına gidilir. Listelenen sanatçılardan biri seçildiği zaman ilgili sanatçının detaylarının gösterildiği ve albümlerinin listelendiği <b>Sanatçı Detay</b> sayfasına gidilir. Listelenen albümlerden biri seçildiği zaman ilgili albüme ait şarkıların listelendiği <b> Albüm Detay </b> sayfasına gidilir. Bu sayfada istenilen şarkı favorilere eklenebilir, favorilerde ekle bir şarkı var ise ilgili şarkı favorilerden kaldırabilir. Seçilen şarkıların 30 saniyelik önizlemesi çalar. Önizleme istenildiği zaman durdurulabilir. Favoriler sayfasında da eklenen şarkıların 30 saniyelik önizlemesi çalınabilir ve istenildiği zaman durdurulabilir. İstenilen şarkı favorilerden kaldırılabilir. Uygulama açık ve kapalı temalarla uyumlu bir şekilde çalışmaktadır.
--->
 
-The application is developed using the Kotlin language and incorporates Jetpack Compose. On the initial screen of the app, music genres are listed. On the same page, there is a heart icon that leads to the 'Favorites' page. When a music genre is selected, it takes you to the 'Artists' page, which lists artists related to the chosen music genre. When you select a specific artist, it displays details about the artist and lists their albums on the 'Artist Details' page. If you select an album from the list, it takes you to the 'Album Details' page, where you can add songs to your favorites. You can also remove songs from your favorites if they are already added. A 30-second preview of the selected songs is available, and you can stop the preview whenever you like. In the 'Favorites' page, you can play 30-second previews of the added songs and stop them as needed. You can also remove songs from your favorites. The application is compatible with both light and dark themes.
-
-## Tech Stack 📚
-
-* [Navigation](https://developer.android.com/jetpack/compose/navigation)
-
-* [ViewModel](https://developer.android.com/jetpack/compose/libraries#viewmodel)
-
-* [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
-
-* [Accompanist](https://google.github.io/accompanist/systemuicontroller/)
-
-* [Animations](https://developer.android.com/jetpack/compose/animation)
-
-* [Retrofit](https://square.github.io/retrofit)
-
-* [Coil](https://coil-kt.github.io/coil)
-
-* [Okhttp](https://square.github.io/okhttp/)
-
-* [Paging 3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview?hl=en)
-
-* [Palette](https://developer.android.com/develop/ui/views/graphics/palette-colors)
-
-* [Lifecycle](https://developer.android.com/jetpack/compose/state#use-other-types-of-state-in-jetpack-compose)
 
 ## Video from app 📱
 
