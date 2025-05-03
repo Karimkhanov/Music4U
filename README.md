@@ -46,4 +46,4 @@ The app is built in Kotlin with a modern Jetpack Compose UI. On launch, you’re
 ## Architecture 🏗
 The app uses MVVM [Model-View-ViewModel] architecture to have a unidirectional flow of data, separation of concern, testability, and a lot more.
 
-![mvvm]((https://github.com/user-attachments/assets/874f7380-3e00-49ae-8cad-f268596b09c0))
+![mvvm](https://github.com/user-attachments/assets/874f7380-3e00-49ae-8cad-f268596b09c0)
